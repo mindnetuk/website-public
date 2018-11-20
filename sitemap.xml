@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mindnetuk.github.io/website-public/categories/</loc>
+    <loc>https://www.mindcogsci.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mindnetuk.github.io/website-public/tags/</loc>
+    <loc>https://www.mindcogsci.net/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mindnetuk.github.io/website-public/</loc>
+    <loc>https://www.mindcogsci.net/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Mind Network</title>
-    <link>https://mindnetuk.github.io/website-public/</link>
+    <link>https://www.mindcogsci.net/</link>
     <description>Recent content on The Mind Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://mindnetuk.github.io/website-public/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mindcogsci.net/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
